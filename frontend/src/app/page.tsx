@@ -1,3 +1,4 @@
+import FeaturesSection from "./components/landing/FeaturesSection";
 import HeroSection from "./components/landing/HeroSection";
 import LandingNavbar from "./components/landing/LandingNavbar";
 
@@ -6,6 +7,7 @@ export default function HomePage() {
     <main className="min-h-screen bg-[#F7F1E7]">
       <LandingNavbar/>
       <HeroSection/>
+      <FeaturesSection/>
     </main>
   );
 }
