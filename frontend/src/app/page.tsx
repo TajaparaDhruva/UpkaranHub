@@ -1,3 +1,4 @@
+import AboutSection from "./components/landing/AboutSection";
 import EquipmentShowcase from "./components/landing/EquipmentShowcase";
 import FeaturesSection from "./components/landing/FeaturesSection";
 import HeroSection from "./components/landing/HeroSection";
@@ -12,6 +13,7 @@ export default function HomePage() {
       <FeaturesSection/>
       <HowItWorks/>
       <EquipmentShowcase/>
+      <AboutSection/>
     </main>
   );
 }
