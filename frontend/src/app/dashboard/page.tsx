@@ -1,6 +1,6 @@
 
 import Link from "next/link";
-import DashboardNavbar from "@/app/components/layout/DashboardNavbar";
+import DashboardNavbar from "@/components/layout/DashboardNavbar";
 import {
   Package,
   CalendarCheck,
