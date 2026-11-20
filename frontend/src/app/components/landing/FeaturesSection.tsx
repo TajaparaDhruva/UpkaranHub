@@ -117,7 +117,7 @@ export default function FeaturesSection() {
                 <div className="mt-6 flex items-center justify-between border-t border-[#E5DDCE] pt-4">
 
                   <span className="text-xs font-medium text-[#87917A]">
-                    EquipEase Feature
+                    UpkaranHub Feature
                   </span>
 
                   <ArrowUpRight

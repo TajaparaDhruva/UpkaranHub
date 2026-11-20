@@ -7,7 +7,7 @@ export default function CTASection() {
     <section className="bg-white px-6 py-20 sm:px-10 lg:px-16">
       <div className="mx-auto max-w-7xl overflow-hidden rounded-3xl bg-[#34483C] px-7 py-16 text-center sm:px-12 lg:py-20">
         <p className="mb-5 text-xs font-semibold uppercase tracking-[0.25em] text-[#C6D0C1]">
-          Get Started with EquipEase
+          Get Started with UpkaranHub
         </p>
 
         <h2 className="mx-auto max-w-3xl font-serif text-3xl font-medium leading-tight text-white sm:text-4xl lg:text-5xl">

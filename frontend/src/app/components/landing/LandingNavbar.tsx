@@ -29,7 +29,7 @@ export default function LandingNavbar() {
           </div>
 
           <span className="font-serif text-2xl font-bold tracking-tight text-[#292D28]">
-            EquipEase
+            UpkaranHub
           </span>
         </Link>
 

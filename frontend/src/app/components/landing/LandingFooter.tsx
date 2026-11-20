@@ -26,7 +26,7 @@ export default function LandingFooter() {
             <Link href="/" className="inline-flex items-center gap-2">
               <Leaf size={23} />
               <span className="text-xl font-semibold tracking-tight">
-                EquipEase
+                UpkaranHub
               </span>
             </Link>
 
@@ -78,7 +78,7 @@ export default function LandingFooter() {
 
         <div className="flex flex-col gap-4 pt-7 text-xs text-[#C6D0C1] sm:flex-row sm:items-center sm:justify-between">
           <p>
-            © {new Date().getFullYear()} EquipEase. All rights reserved.
+            © {new Date().getFullYear()} UpkaranHub. All rights reserved.
           </p>
 
           <p>Designed for easier resource management.</p>

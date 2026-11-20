@@ -12,7 +12,7 @@ export default function LoginPage() {
       <section className="relative hidden items-center justify-center overflow-hidden bg-[#34483C] px-12 lg:flex">
         <div className="relative z-10 max-w-lg">
           <p className="mb-6 text-xs font-semibold uppercase tracking-[0.25em] text-[#C6D0C1]">
-            EquipEase Resource Management
+            UpkaranHub Resource Management
           </p>
 
           <h2 className="font-serif text-5xl leading-tight text-white xl:text-6xl">

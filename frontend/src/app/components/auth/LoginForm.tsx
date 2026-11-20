@@ -57,7 +57,7 @@ export default function LoginForm() {
         className="mb-12 inline-flex items-center gap-2 text-[#34483C]"
       >
         <Leaf size={25} />
-        <span className="text-xl font-semibold">EquipEase</span>
+        <span className="text-xl font-semibold">UpkaranHub</span>
       </Link>
 
       {/* Heading */}

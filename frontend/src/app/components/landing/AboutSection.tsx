@@ -37,7 +37,7 @@ export default function AboutSection() {
 
         <div>
           <p className="mb-4 text-xs font-semibold uppercase tracking-[0.25em] text-[#87917A]">
-            About EquipEase
+            About UpkaranHub
           </p>
 
           <h2 className="max-w-xl font-serif text-3xl font-medium leading-tight text-[#292D28] sm:text-4xl lg:text-5xl">
@@ -45,7 +45,7 @@ export default function AboutSection() {
           </h2>
 
           <p className="mt-7 max-w-xl text-sm leading-8 text-[#77766E] sm:text-base">
-            EquipEase is an equipment and resource booking platform
+            UpkaranHub is an equipment and resource booking platform
             designed to make campus resource management easier.
             Students can explore equipment, check availability, and
             submit booking requests, while managers can organize
